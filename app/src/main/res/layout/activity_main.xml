@@ -34,7 +34,7 @@
         android:inputType="text"/>
 
     <TextView
-        android:id="@+id/txtResumo"
+        android:id="@+id/txtPecas"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
@@ -54,7 +54,7 @@
         android:layout_marginTop="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtResumo"/>
+        app:layout_constraintTop_toBottomOf="@+id/txtPecas"/>
     <Button
         android:id="@+id/btnRegistrarPeca"
         android:layout_width="0dp"
